@@ -1,5 +1,7 @@
 package com.bignerdranch.android.criminalintent;
 
+//This is to test a merge into the main project
+
 import java.util.Date;
 import java.util.UUID;
 
